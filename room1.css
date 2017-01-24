@@ -22,7 +22,7 @@
 	height: auto !important;
 	width: auto !important;
 	line-height: 1.4em !important;
-	font-family: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace !important;
+	
 	font-weight: normal !important;
 	font-style: normal !important;
 	font-size: 15px !important;
@@ -54,7 +54,7 @@
 
 .syntaxhighlighter .no-wrap .line .content
 {
-	white-space: pre !important;
+	
 }
 
 .syntaxhighlighter .line table 
