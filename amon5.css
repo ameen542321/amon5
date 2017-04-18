@@ -559,7 +559,7 @@ body ul li.thrd-hd{
 body .mobiletitle{display:none}
 .cat-title{
 	color: #fff;
-	background-color: #e02864;
+	background-color: #e02864; border: 1px dashed #F5F5F5; 
 	margin:0px 0px 3px;
 	line-height:33px;
 	font-size:18px;
